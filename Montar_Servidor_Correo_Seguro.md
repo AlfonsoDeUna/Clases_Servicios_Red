@@ -33,8 +33,33 @@ https://www.youtube.com/watch?v=NM8fAnEqs1Q (Mi servidor de correo ¿Es seguro?)
 ## GRUPOS
    Grupos de 4 personas
    
-   ##
-
+## METAS DE APRENDIZAJE
+  * Instalación de servicios de configuración dinámica de sistemas
+   * Implantación de servicios de correo y su gestión
+   
+  * La identificación de las principales aplicaciones usadas en redes informáticas para ejecutar servicios de red.
+  * La definición de los aspectos técnicos de los servicios de red más extendidos.
+  * La selección de un servicio de red y de una aplicación específica sobre la base de sus características.
+  * La instalación y configuración de servicios en redes locales y públicas.
+  * La puesta en marcha de mecanismos de conexión a redes públicas.
+  * Las actividades profesionales asociadas a esta función se aplican en:
+         * La implantación y mantenimiento de servicios de red.
+         * La conexión de redes locales con redes públicas.
+  **Gestiona servidores de correo electrónico identificando requerimientos de utilización y aplicando criterios
+    de configuración. 
+    
+    *Criterios de evaluación:*
+      a) Se han descrito los diferentes protocolos que
+      intervienen en el envío y recogida del correo electrónico.
+      b) Se ha instalado un servidor de correo electrónico.
+      c) Se han creado cuentas de usuario y verificado el
+      acceso de las mismas.
+      d) Se han definido alias para las cuentas de correo.
+      e) Se han aplicado métodos para impedir usos indebidos del servidor de correo electrónico.
+      f) Se han instalado servicios para permitir la recogida remota del correo existente en los buzones de usuario.
+      g) Se han usado clientes de correo electrónico para
+      enviar y recibir correo.
+  
 ## Tareas
 ### TAREA 1. Introducctoria. Responde a las siguientes preguntas:
 
