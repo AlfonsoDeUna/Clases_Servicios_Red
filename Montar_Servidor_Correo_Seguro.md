@@ -50,11 +50,17 @@ https://www.youtube.com/watch?v=NM8fAnEqs1Q (Mi servidor de correo ¿Es seguro?)
     
     *Criterios de evaluación:*
       1 Se han descrito los diferentes protocolos que intervienen en el envío y recogida del correo electrónico.
+      
       2 Se ha instalado un servidor de correo electrónico.
+      
       3 Se han creado cuentas de usuario y verificado el acceso de las mismas.
+      
       4 Se han definido alias para las cuentas de correo.
+      
       5 Se han aplicado métodos para impedir usos indebidos del servidor de correo electrónico.
+      
       6 Se han instalado servicios para permitir la recogida remota del correo existente en los buzones de usuario.
+      
       7 Se han usado clientes de correo electrónico para enviar y recibir correo.
   
 ## Tareas
